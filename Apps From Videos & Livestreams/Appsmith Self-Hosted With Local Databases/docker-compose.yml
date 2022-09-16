@@ -1,0 +1,41 @@
+version: "3"
+
+services:
+  appsmith:
+    image: index.docker.io/appsmith/appsmith-ce
+    container_name: appsmith
+    ports:
+      - 8080:80
+    volumes:
+      - ./stacks:/appsmith-stacks
+    restart: unless-stopped
+    labels:
+      com.centurylinklabs.watchtower.enable: true
+    depends_on:
+      - mongo
+      - postgres
+  mongo:
+    image: mongo:latest
+    restart: unless-stopped
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=$USERNAME
+      - MONGO_INITDB_ROOT_PASSWORD=$PASSWORD
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongo-data:/data/db
+    env_file:
+    - .env
+  postgres:
+    image: postgres:latest
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=$USERNAME
+      - POSTGRES_PASSWORD=$PASSWORD
+    ports:
+      - 5432:5432
+    volumes: 
+      - ./postgres-data:/var/lib/postgresql/data
+    env_file:
+    - .env
+
