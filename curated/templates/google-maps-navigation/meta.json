@@ -1,0 +1,48 @@
+{
+  "_id": {
+    "$oid": "62a0c4367a8ae18d9045e72e"
+  },
+  "deleted": false,
+  "title": "Google Maps Navigation",
+  "description": "Guide your team with Google Maps directions, dynamically generated from your location or form a custom map pin added by the user.",
+  "appUrl": "https://app.appsmith.com/app/google-maps-navigation/directions-6269a377d8480440cf788b5c",
+  "appID": "62bc9089e8e73110ce2527f9",
+  "appDataUrl": "https://s3.us-east-2.amazonaws.com/template.appsmith.com/google-maps-navigation.json",
+  "gifUrl": "https://s3.us-east-2.amazonaws.com/template.appsmith.com/maps_screenshot.png",
+  "screenshotUrls": [
+    "https://s3.us-east-2.amazonaws.com/template.appsmith.com/maps_screenshot.png"
+  ],
+  "widgets": [
+    "BUTTON_WIDGET",
+    "SELECT_WIDGET",
+    "TEXT_WIDGET",
+    "IMAGE_WIDGET",
+    "MAP_WIDGET",
+    "TABLE_WIDGET_V2"
+  ],
+  "functions": [
+    "Operations"
+  ],
+  "useCases": [
+    "Marketing"
+  ],
+  "datasources": [
+    "postgres-plugin",
+    "restapi-plugin"
+  ],
+  "minVersion": "v1.7.1-SNAPSHOT",
+  "WFOverview": "<p>Supporting a team of delivery drivers or techs working in the field can be challenging. Often times, there is a dispatcher or office admin that can help organize their travel plans and keep everyone updated. <br /><br />This app uses Google Maps to generate driving directions based on your team's location so dispatchers and office admins can quickly send navigation links to their team. </p>\n<h4>Highlights of the app</h4>\n<ul>\n<li>Users can select different team members to view their location on a map</li>\n<li>Users can generate driving directions from their current location to the selected team member</li>\n<li>Users can add a new map pin, and generate driving directions from the team member to a custom location</li>\n</ul>\n<p> </p>",
+  "isAligned": true,
+  "isDesigned": true,
+  "isReadyforReview": true,
+  "isReviewed": true,
+  "contentReady": true,
+  "appReady": true,
+  "active": true,
+  "activeWF": true,
+  "assignedTo": [
+    "joseph@appsmith.com"
+  ],
+  "targetPublishDate": "2022-06-29T04:00:00.000Z",
+  "notes": ""
+}
