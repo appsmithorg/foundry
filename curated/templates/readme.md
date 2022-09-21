@@ -2,12 +2,12 @@
 |||
 |:-:|:-:|
 |Explore templates across multiple functional roles and industries. Fork them to speed up your internal tool creation process.|<img src="https://global-uploads.webflow.com/61531b23c347e4fbd4a84209/61f7a2bb62cbe7d178fa7153_Group%2084579.png" width="800">|
-
-
-
-### Request a template -LINK
-### Submit a new template to the foundry -LINK
+|Request a template -LINK|Submit a new template to the foundry -LINK|
 ____
+
+|Website Link|Platform-Fork Link|Repo folder|Resources/Tutorials|
+|-|-|-|-|
+|asdf|asdf|Asdf|ASdf|
 
 [Cross Platform Social Media Message Pusher](https://app.appsmith.com/applications/61fbb8752cd3d95ca414b4da/pages/61fbb8752cd3d95ca414b4e0)
 
