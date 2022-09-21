@@ -3,6 +3,9 @@
 
 ![Template Header Image](https://global-uploads.webflow.com/61531b23c347e4fbd4a84209/61f7a2bb62cbe7d178fa7153_Group%2084579.png) 
 
+- Request a template -LINK
+- Submit a new template to the foundry -LINK
+
 [Cross Platform Social Media Message Pusher](https://app.appsmith.com/applications/61fbb8752cd3d95ca414b4da/pages/61fbb8752cd3d95ca414b4e0)
 
 
