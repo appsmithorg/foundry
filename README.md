@@ -1,4 +1,10 @@
 # The Appsmith Foundry
-## Where App smiths smith apps! 
-![Foundry Banner](https://global-uploads.webflow.com/61531b23c347e4fbd4a84209/62a68024906fa5cb0f152899_Group%208634-p-800.png)
+## ⚒️ *Where App smiths smith apps!*
+| | | |
+|-|:-:|:-:|
+|Curated|Official templates from Appsmith|<img src="https://s3.us-east-2.amazonaws.com/template.appsmith.com/customer-support-dashboard.png" width="200">|
+|Resources|Blogs, Videos, Tutorials, etc.|<img src="https://s3.us-east-2.amazonaws.com/template.appsmith.com/customer-support-dashboard.png" width="200">|
+|Community|Templates forged by the Appsmith community! |<img src="https://s3.us-east-2.amazonaws.com/template.appsmith.com/customer-support-dashboard.png" width="200">|
+
+### [Community Contributions Guide]()
 

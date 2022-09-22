@@ -1,7 +1,7 @@
 # Curated Templates
 |||
 |:-:|:-:|
-|Explore templates across multiple functional roles and industries. Fork them to speed up your internal tool creation process.|<img src="https://global-uploads.webflow.com/61531b23c347e4fbd4a84209/61f7a2bb62cbe7d178fa7153_Group%2084579.png" width="800">|
+|Explore templates across multiple functional roles and industries. Fork them to speed up your internal tool creation process.|<img src="https://s3.us-east-2.amazonaws.com/template.appsmith.com/customer-support-dashboard.png" width="800">|
 |Request a template -LINK|Submit a new template to the foundry -LINK|
 ____
 
