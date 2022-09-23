@@ -1,4 +1,4 @@
-# The Appsmith Foundry 🔥🔨
+# The Appsmith Foundry 🔥
 ## *Where App smiths smith apps!*
 | | | |
 |-|:-:|:-:|
