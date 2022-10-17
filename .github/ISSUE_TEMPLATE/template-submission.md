@@ -7,17 +7,16 @@ assignees: ''
 
 ---
 
-**Describe the template**
-A clear and concise description of what the template is.
+## Description
+A clear and concise description of what the template is and the use case it is intended to solve for.
 
-**Link to the public app**
-The link to the public app (unless JSON export is attached as a PR)
-
-**Integrations and features**
+### Integrations and features
 A list of specific integrations, data sources, and specific features
  - some DB
  - an API
  - table with update modal
 
-**Screenshots**
-If applicable, add screenshots to help show your app.
+#### Attachments
+- [ ] **Link to app** - Link to the _public_ app
+- [ ] **Screenshots** - Add one or more screenshots to help show your app.
+- [ ] **JSON Export** - Attach the [JSON export](https://docs.appsmith.com/advanced-concepts/more/backup-restore#export-application) for your app to the issue.
