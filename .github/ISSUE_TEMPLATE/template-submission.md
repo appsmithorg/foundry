@@ -2,7 +2,7 @@
 name: Template submission
 about: Add your template to the community listing.
 title: "[TEMPLATE] Title goes here"
-labels: enhancement
+labels: community contrib
 assignees: ''
 
 ---
