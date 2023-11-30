@@ -4,7 +4,7 @@
 </a>
 </p>
 
-# Appsmith Forge Custom Library
+# Appsmith Foundry Custom Library
 
 This is a collection of utility functions for common tasks in JavaScript. This module includes functions to work with arrays, objects, and generate unique IDs. It's designed to be simple to use and can be easily integrated into your Node.js, browser-based projects or Appsmith apps.
 
@@ -15,13 +15,13 @@ This is a collection of utility functions for common tasks in JavaScript. This m
 You can clone this repo using Git to create and modify:
 
 ```sh
-git clone git@github.com:appsmithorg/forge.git
+git clone git@github.com:appsmithorg/foundry.git
 ```
 Once cloned, you will need to install the Node modules to get it ready for usage. This should only be needed the first time (unless you add extra modules).
 ```sh
 npm install
 ```
-Alternatively, you can follow the tutorial to set your own forge up from scratch. (coming soon)
+Alternatively, you can follow the tutorial to set your own foundry up from scratch. (coming soon)
 
 ## Usage
 1. Create a new sub-directory in the `libraries` folder. This should be the name of your custom library.
@@ -57,12 +57,12 @@ Here are the libraries available in this repo and how to use them. All of them a
 ## `jsDocLite`
 
 This is a simple library that uses basic JSDoc style docblocks to comment your code and generate docs. We are actually using it in this repo to automatically generate a README for each library. It doesn't offer full JSDoc support, but the basics are good.
-- [documentation](https://github.com/appsmithorg/forge/tree/main/libraries/jsDocLite)
-- [commenting guidelines](https://github.com/appsmithorg/forge/tree/main/libraries/jsDocLite/COMMENTING.md)
+- [documentation](https://github.com/appsmithorg/foundry/tree/main/libraries/jsDocLite)
+- [commenting guidelines](https://github.com/appsmithorg/foundry/tree/main/libraries/jsDocLite/COMMENTING.md)
 - usage:
 
     ```sh
-    https://cdn.jsdelivr.net/gh/appsmithorg/forge@main/dist/jsDocLite.umd.js
+    https://cdn.jsdelivr.net/gh/appsmithorg/foundry@main/dist/jsDocLite.umd.js
     ```
 
 

@@ -8,7 +8,7 @@ This module provides functionality to parse JSDoc comments from JavaScript code.
 
 You can use the JSDelivr CDN to import this custom library into Appsmith.
 ```sh
-https://cdn.jsdelivr.net/gh/appsmithorg/forge@main/dist/jsDocLite.umd.js
+https://cdn.jsdelivr.net/gh/appsmithorg/foundry@main/dist/jsDocLite.umd.js
 ```
 
 ## Methods

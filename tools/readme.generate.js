@@ -3,7 +3,7 @@ const path = require('path');
 const jsDocLite = require('../dist/jsDocLite.umd.js'); // Adjust the path as necessary
 
 const librariesPath = './libraries';
-const jsDeliverPrefix = 'https://cdn.jsdelivr.net/gh/appsmithorg/forge@main/dist/';
+const jsDeliverPrefix = 'https://cdn.jsdelivr.net/gh/appsmithorg/foundry@main/dist/';
 
 fs.readdirSync(librariesPath).forEach(lib => {
   const libPath = path.join(librariesPath, lib, 'index.js');
