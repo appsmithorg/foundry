@@ -50,9 +50,9 @@ npm run readme.generate
 npm run umd.generate
 ```
 
-## Libraries availble
+## Libraries available
 
-Here are the libraries available in this repo and how to use them. All of them are availble using JSDelivr so you can import them into your Appsmith app.
+Here are the libraries available in this repo and how to use them. All of them are available using JSDelivr so you can import them into your Appsmith app.
 
 ## `jsDocLite`
 
